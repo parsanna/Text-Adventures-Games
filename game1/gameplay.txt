@@ -10,6 +10,8 @@ Game play:
 - Then, magically, the hidden character show up and the game is over, for good.
 
 ##Challenges:
+it would be nice to have items/tools, that you could find in all areas, than use it in the challenges.
+we can use in some challenges, not all, the rng, so we play a lil bit with luck.
 
 ##Entrance: 
 - Story:
