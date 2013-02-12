@@ -7,6 +7,12 @@ this.verb = verb;
 }
 
 var entrance = new Scene(entrance, ticket, grab);
+//literal notation for entrance
+var entrance = {
+  zone: entrance,
+  item: ticket,
+  verb: grab
+  }
 
 //navigation css
 div#entrance
