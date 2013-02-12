@@ -7,3 +7,8 @@ this.verb = verb;
 }
 
 var entrance = new Scene(entrance, ticket, grab);
+
+//navigation css
+div#entrance
+//add event handler
+getElementbyId('#entrance').onClick(entrance)
