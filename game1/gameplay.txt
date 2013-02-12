@@ -11,4 +11,6 @@ Game play:
 
 ##Challenges:
 
-- Entrance: You are in the entrance of the circus without any money, but still, you want to go in anyway. You cannot bare with thepossibility to meet with all those hollywood stars. SillyVest StandAlone, DarnOld swagBitter and many others. They are disguised, but you know that you can find them. 
+- Entrance: You are in the entrance of the circus without any money, but still, you want to go in anyway.
+You cannot bare with thepossibility to meet with all those hollywood stars. SillyVest StandAlone,
+DarnOld swagBitter and many others. They are disguised, but you know that you can find them. 
