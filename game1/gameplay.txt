@@ -1,9 +1,14 @@
 Game play:
 
 - We have 5 areas.
-- You start at the entrance, and can go anywhere from there with a mouse click in a lil map.
+- You start at the entrance, and can go anywhere from there with a mouse click in a lil map, but before you advance, you must defeat the entrance challenge.
+- Once the entrance challenge is completed, all the other areas are unlocked
 - Every area will have challenges.
-    *if the player wins, the area ismarked as "cleared" and the player can go somewhere else. 
+    *if the player wins, the area is marked as "cleared" and the player can go somewhere else. 
     *if the player loose the challenge, game over, and start again.
 - The game will be over only when player wins all challenges from the 5 areas.
-- Than magically the hidden caracter show up and the game is over, forgood
+- Then, magically, the hidden character show up and the game is over, for good.
+
+##Challenges:
+
+- Entrance: You are in the entrance of the circus without any money, but still, you want to go in anyway. You cannot bare with thepossibility to meet with all those hollywood stars. SillyVest StandAlone, DarnOld swagBitter and many others. They are disguised, but you know that you can find them. 
