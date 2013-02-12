@@ -1,0 +1,9 @@
+Game play:
+
+- We have 5 areas.
+- You start at the entrance, and can go anywhere from there with a mouse click in a lil map.
+- Every area will have challenges.
+    *if the player wins, the area ismarked as "cleared" and the player can go somewhere else. 
+    *if the player loose the challenge, game over, and start again.
+- The game will be over only when player wins all challenges from the 5 areas.
+- Than magically the hidden caracter show up and the game is over, forgood
