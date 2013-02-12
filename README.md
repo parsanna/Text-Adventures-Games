@@ -13,7 +13,7 @@ Well, happy coding!
 
 
 Text-Adventure Games (TAG) is a collection of text-based games.
-## Game 1: Circus Adventure
+## Game 1: Hollywood Stars Circus Adventure
 
 You've been told that famous artists would be disguised at the local circus. You need to find them. This will be a crazy adventure inside the circus, everyone is well disguised, do not think it will be an easy task!
 
