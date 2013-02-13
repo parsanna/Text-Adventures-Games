@@ -6,11 +6,14 @@ this.item = item;
 this.verb = verb;
 }
 
-var entrance = new Scene(entrance, ticket, grab);
+var ElephantScene = new Scene(elephant, peanut, give);
 //literal notation for entrance
 
+var goToElephantScene = function (){
+  return ElephantScene;
+}
+//navigation html
 
-//navigation css
-div#entrance
 //add event handler
-getElementbyId('#entrance').onClick(entrance)
+<a href='#' onclick='goToElephantScene();'></a>
+
